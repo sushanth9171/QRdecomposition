@@ -65,7 +65,7 @@ elif A == [[12, -51, 4], [6, 167, -68], [-4, 24, -41]]:
 
 ## Output
 ```
-<img width="1192" height="535" alt="{ABBF9400-78F1-4376-9557-964D2E0114E5}" src="https://github.com/user-attachments/assets/c45107e1-1ba4-4331-b7f3-d26edf1d0834" />
+<img width="1192" height="535" alt="Screenshot 2026-05-28 182332" src="https://github.com/user-attachments/assets/5eaa7bc2-5335-4466-8d0f-c1016af3a696" />
 
 ```
 
